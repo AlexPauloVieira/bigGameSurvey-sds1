@@ -9,16 +9,16 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Aplicação mobile
-![Mobile 1](https://github.com/AlexPauloVieira/sds1/blob/main/docs/sds1-mobile.gif)
+![Mobile 1](https://github.com/AlexPauloVieira/bigGameSurvey-sds1/blob/main/docs/sds1-mobile.gif)
 
 ## Aplicação web
-![Web 1](https://github.com/AlexPauloVieira/sds1/blob/main/docs/sds1-web.gif)
+![Web 1](https://github.com/AlexPauloVieira/bigGameSurvey-sds1/blob/main/docs/sds1-web.gif)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
 ## Certificado de Participação
-![Certificado](https://github.com/AlexPauloVieira/sds1/blob/main/docs/certificado-sds1.png)
+![Certificado](https://github.com/AlexPauloVieira/bigGameSurvey-sds1/blob/main/docs/certificado-sds1.png)
 
 # Tecnologias utilizadas
 ## Back end
